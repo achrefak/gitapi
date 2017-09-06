@@ -1,4 +1,4 @@
-##Welcome to GITAPI, a React/Redux tutorial using Github API
+## Welcome to GITAPI, a React/Redux tutorial using Github API
 
 Below you will find some information on how to perform common tasks.<br>
 
